@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Sumith-Raj
-- 👀 I’m interested in python full stack development
-- 🌱 I’m currently learning python and react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋 Hi, I’m Sumith R Raj
+- 💞️ Full stack developer looking for exciting opportunities where I can contribute my skills and passion to build high quality, interactive and responsive websites.Always eager to learn and adapt new technologies
+- ✔️ Python ✔️ C#  ✔️ Django  ✔️ Flask  ✔️ .Net  
+- ✔️ React.js  ✔️ HTML  ✔️ Cascading Style Sheets (CSS)✔️ JavaScript  ✔️ Bootstrap  ✔️  jQuery  ✔️ TypeScript 
+- ✔️ MySQL  ✔️ SQLite  ✔️ MongoDB 
+- ✔️ Git  ✔️ AWS
+- ✔️ Team Work ✔️ Creativity ✔️ Adaptability ✔️ Active Listening ✔️ Problem-solving
+
+- 📫 rajsumith155@gmail.com
+
 
 <!---
 Sumith-Raj/Sumith-Raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
